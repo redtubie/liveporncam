@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 20 Oct 2021 07:46:28 at https://lifehack77.wordpress.com/2021/10/20/free-live-sex-cams-and-live-porn-adult-sex-chat/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://lifehack77.wordpress.com/2021/10/20/free-live-sex-cams-and-live-porn-adult-sex-chat/ -O1 "C:\My Web Sites\wordpress" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:46:43	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://s2.wp.com/wp-content/plugins/amp-2.0/assets/images/placeholder-icon.png
+07:46:44	Warning: 	Found for https://lifehack77.wordpress.com/2021/10/20/free-live-sex-cams-and-live-porn-adult-sex-chat/?share=twitter
+07:46:44	Warning: 	File has moved from https://lifehack77.wordpress.com/2021/10/20/free-live-sex-cams-and-live-porn-adult-sex-chat/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Free%20Live%20Sex%20Cams%20and%20Live%20Porn%20Adult%20Sex%20Chat&url=https%3A%2F%2Flifehack77.wordpress.com%2F2021%2F10%2F20%2Ffree-live-sex-cams-and-live-porn-adult-sex-chat%2F
+07:46:44	Warning: 	Found for https://lifehack77.wordpress.com/2021/10/20/free-live-sex-cams-and-live-porn-adult-sex-chat/?share=facebook
+07:46:44	Warning: 	File has moved from https://lifehack77.wordpress.com/2021/10/20/free-live-sex-cams-and-live-porn-adult-sex-chat/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Flifehack77.wordpress.com%2F2021%2F10%2F20%2Ffree-live-sex-cams-and-live-porn-adult-sex-chat%2F&t=Free%20Live%20Sex%20Cams%20and%20Live%20Porn%20Adult%20Sex%20Chat
+07:46:44	Error: 	"Not Found" (404) at link https://lifehack77.wordpress.com/2021/10/20/free-live-sex-cams-and-live-porn-adult-sex-chat/GET (from https://lifehack77.wordpress.com/2021/10/20/free-live-sex-cams-and-live-porn-adult-sex-chat/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 seconds : 36 links scanned, 31 files written (1123650 bytes overall) [882997 bytes received at 55187 bytes/sec], 423662 bytes transferred using HTTP compression in 16 files, ratio 27%, 1.4 requests per connection
+(1 errors, 5 warnings, 0 messages)
